@@ -21,7 +21,7 @@
     .ratings {
       i {
         color: rgba($primary, 0.7);
-        font-size: 1rem;
+        font-size: 2rem;
       }
     }
   }
@@ -43,6 +43,7 @@
     margin-bottom: 1rem;
     text-align: center;
     font-weight: 500;
+    font-size:larger;
     color: $white;
 
     h3 {

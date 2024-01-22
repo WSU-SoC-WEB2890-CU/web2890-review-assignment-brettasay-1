@@ -4,6 +4,15 @@
   position: relative;
   padding: 1rem 0;
 
+  .card{
+    border-color: $o-dark;
+    border-width: 0.1rem;  
+    padding: 1rem 0;
+    .card-title {
+      padding: 1rem;
+    }
+  }
+
   &__content {
     padding: 1rem;
     margin-top: 0;
